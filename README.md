@@ -1,12 +1,17 @@
-**Title:** Trinucleotide Counter Program
+**Title:** 
+Trinucleotide Counter Program
 
-**Name:** Asra Tasneem Shaik
+**Name:** 
+Asra Tasneem Shaik
 
-**Date:** 09-19-2024
+**Date:** 
+09-19-2024
 
-**Class:** INFO-B536: Computational Methods for Biomedical Informatics
+**Class:** 
+INFO-B536: Computational Methods for Biomedical Informatics
 
-**Programming Language:** Python 3.11.4 
+**Programming Language:** 
+Python 3.11.4 
 
 **Description:**
 
